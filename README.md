@@ -14,6 +14,7 @@ Requirements:
 * Computer or Mobile device
 * Connection to internet
 ## Link to live site on GitHub
+https://rugendo.github.io/Week1-project/index.html
 
 ## Technologies
 Below is the list of technologies used for the web project:
