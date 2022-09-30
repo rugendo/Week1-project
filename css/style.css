@@ -3,3 +3,10 @@ h1 {
     font-size: x-large;
 }
 
+p {
+    font-size: medium;
+}
+
+img {
+    size: adjust 100px; 
+}
