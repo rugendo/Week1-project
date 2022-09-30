@@ -3,8 +3,18 @@ h1 {
     font-size: x-large;
 }
 
-p {
+h2 {
+    color: blueviolet;
+    font-size: large;
+}
+
+h3 {
+    color: cornflowerblue;
     font-size: medium;
+}
+
+p {
+    font-size: small;
 }
 
 img {
@@ -13,3 +23,4 @@ img {
   padding: 5px;
   width: 150px;
 }
+
