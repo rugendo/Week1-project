@@ -1,8 +1,10 @@
 # WEB ABOUT RUGENDO
 #### The Contributors
+These are the contributors
 *Mark
 *Rugendo
 ## Description
+The Web describes Rugendo using the following key points 
 *Rugendo picture
 *Country of residence
 *The projects completed
@@ -11,9 +13,10 @@
 Requirements:
 * Computer or Mobile device
 * Connection to internet
-Link to live site on GitHub
-* 
-## Technologies Used
+##Link to live site on GitHub
+
+## Technologies
+Below is the list of technologies used for the web project
 *HTML
 *CSS
 *Github
