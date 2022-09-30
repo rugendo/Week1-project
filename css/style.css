@@ -17,6 +17,10 @@ p {
     font-size: small;
 }
 
+li {
+    font-size: small;
+}
+
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
